@@ -10,4 +10,3 @@ class Aluno:
         self.email = aluno[0].strip()
         pass
     
-    
