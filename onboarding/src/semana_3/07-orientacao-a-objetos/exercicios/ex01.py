@@ -48,5 +48,3 @@ class Aluno:
         return f"Aluno('{self.prontuario}', '{self.nome}', '{self.email}')"
     
     
-aluno = Aluno('SP0101,João da Silva,joao@email.com')
-print(f"SUCESSO: {aluno}")
