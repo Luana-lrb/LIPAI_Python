@@ -25,7 +25,7 @@ A IA Generativa é um subconjunto do aprendizado de máquina, particularmente do
 
 *iii. Modelos de Difusão:* Esses modelos aprendem a criar novos dados  revertendo gradualmente um processo de adição de ruído a dados existentes. Eles têm se mostrado excepcionalmente poderosos na geração de imagens em alta resolução e outros tipos de mídia complexa.
 
-**Resumo**
+**Resumo:**
 Portanto, A IA Generativa é um tipo de inteligência artificial que não só entende dados, mas também consegue criar coisas novas, como textos, imagens e sons. Ela evoluiu graças a três avanços principais: os Transformers, que ajudaram a compreender melhor a linguagem humana e deram origem a chatbots mais inteligentes; as GANs, onde duas redes “competem” para criar conteúdos cada vez mais realistas; e os Modelos de Difusão, que geram imagens e mídias complexas de alta qualidade a partir de ruídos, como se “limpassem” um desenho até formar algo detalhado.
 
 **b. NLP** 
@@ -36,6 +36,7 @@ Portanto, A IA Generativa é um tipo de inteligência artificial que não só en
 The applications of NLP are diverse and span across various industries.  In healthcare, NLP can be used for tasks like clinical text analysis and  medical record extraction. In education, it can aid in automated grading  and intelligent tutoring systems. Communication platforms like Google  Translate and text auto-completion rely on NLP algorithms. In business  and marketing, sentiment analysis and chatbots employ NLP techniques.  Also, NLP contributes to entertainment applications such as social media  feed recommendations and voice assistants. 
 
 **Em português:**
+
 *O Processamento de Linguagem Natural (PLN)* é um campo especializado dentro do aprendizado de máquina que foca na interação entre a linguagem humana e os computadores. Ele reconhece a grande quantidade de informações valiosas presentes em textos e dados de fala, como artigos de notícias, avaliações de clientes e trabalhos acadêmicos. O PLN oferece ferramentas computacionais para extrair insights e significados a partir desses dados não estruturados, tornando-se um componente essencial do aprendizado de máquina para compreender e processar a linguagem humana.
 
 As aplicações do PLN são diversas e abrangem várias áreas. Na saúde, pode ser usado para análise de textos clínicos e extração de registros médicos. Na educação, auxilia em tarefas como correção automática e sistemas de tutoria inteligente. Plataformas de comunicação, como o Google Tradutor e a autocompletação de texto, dependem de algoritmos de PLN. No mundo dos negócios e do marketing, técnicas de PLN são aplicadas em análise de sentimentos e chatbots. Além disso, o PLN contribui para aplicações de entretenimento, como recomendações de feeds em redes sociais e assistentes de voz.
@@ -56,7 +57,6 @@ ii. Statistics and Mathematics: This entails having proficiency in hypothesis te
 Soft skills are what set apart effective machine learning professionals from those who are ineffective. These skills are needed for the project’s successful completion and delivery. Such skills include communication, problem-solving, time management, teamwork, and a thirst for learning.
 
 **Em português:**
-
 *1.7.1 Habilidades técnicas essenciais para profissionais de aprendizado de máquina*
 
 Isso se refere às habilidades técnicas que abrangem ciência de dados e engenharia de software.
