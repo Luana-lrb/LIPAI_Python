@@ -1,1 +1,0 @@
-As respsostas estarão no colab!
