@@ -42,3 +42,17 @@ Durante a leitura traga anotações curtas de cada item:
     - Robustez (adversarial, label noise, classes desbalanceadas)
     - Out-of-distribution (OOD) tasks
     -  Calibração de modelos
+
+### Questão 4 - Compare os resultados no dataset MNIST usando as métricas de acurácia e f1-score no conjunto de teste:
+
+1. Treinamento do zero (Ex 1)
+   > A ConvNet apresentou melhor capacidade de generalização, evidenciada pelo menor gap entre acurácia de validação e teste (0.36% vs 1.01%). A ResNet18 demonstrou sinais de overfitting, com acurácia de validação superior (99.27%) mas desempenho inferior no conjunto de teste (98.26%). Portanto a ConvNet demonstrou superioridade em todos os aspectos relevantes: melhor resultado final, menor complexidade, treinamento substancialmente mais rápido e melhor generalização. Sendo observável que o treinamento From Scratch da ResNet18 não foi tão eficiênte quanto uma rede bem mais simples.
+   
+2. Somente a camada fc (Ex. 3.1)
+   > Esta abordagem congela todas as camadas convolucionais, treinando apenas a camada totalmente conectada final. Vantagens: Mínimo custo computacional (apenas 5.130 parâmetros) e treinamento rápido. Desvantagens: Desempenho significativamente inferior (93.84% vs 99.37%) Gap considerável entre treino e validação. Portanto, as features pré-treinadas da ImageNet não se adaptaram adequadamente ao dataset específico.
+   
+3. Fine tuning parcial (Ex. 3.2)
+   > Esta abordagem treina o último bloco convolucional (Layer4) e a camada de classificação. Vantagens: Melhor desempenho no teste: 99.37% (superior a todas as outras abordagens, excelente generalização (gap negativo de -0.12%), F1-Score mais alto e consistente (99.25%), tempo de treinamento eficiente (787s). Portanto, apresentou um equilíbrio ideal entre adaptação e estabilidade.
+   
+5. Fine tuning total (Ex. 3.3)
+   >Esta abordagem treina todos os parâmetros da rede. Vantagens: Segundo melhor desempenho no teste (99.24%), gap zero entre validação e teste. Desvantagens: Maior instabilidade durante treinamento (queda para 97.90% na época 3), tempo de treinamento 32% superior ao fine-tuning parcial, tem maior risco de overfitting com 11.2M parâmetros treináveis.
