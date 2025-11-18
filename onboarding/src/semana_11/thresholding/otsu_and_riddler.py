@@ -31,8 +31,8 @@ thresh = cv2.bitwise_not(thresh)
 cv2.imshow("Riddler-Calvard", thresh)
 cv2.waitKey(0)
 """
-path = r"C:\UFU\IC\onboarding\src\semana_11\thresholding\Original ROI images\healthy"
-salvar = r"C:\UFU\IC\onboarding\src\semana_11\thresholding\Processed_healthy_otsu_riddler"
+path = r"C:\UFU\IC\onboarding\src\semana_11\imagens_e_resultados\Original ROI images\healthy"
+salvar = r"C:\UFU\IC\onboarding\src\semana_11\imagens_e_resultados\Processed_healthy_otsu_riddler"
 
 #Se não existir, criar a pasta
 Path(salvar).mkdir(parents=True, exist_ok=True)

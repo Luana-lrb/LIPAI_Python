@@ -21,8 +21,8 @@ cv2.imshow("Gaussian Thresh", thresh)
 cv2.waitKey(0)
 
 """
-path = r"C:\UFU\IC\onboarding\src\semana_11\thresholding\Original ROI images\healthy"
-salvar = r"C:\UFU\IC\onboarding\src\semana_11\thresholding\Processed_healthy_adaptive"
+path = r"C:\UFU\IC\onboarding\src\semana_11\imagens_e_resultados\Original ROI images\healthy"
+salvar = r"C:\UFU\IC\onboarding\src\semana_11\imagens_e_resultados\Processed_healthy_adaptive"
 
 #Se não existir, criar a pasta
 Path(salvar).mkdir(parents=True, exist_ok=True)
