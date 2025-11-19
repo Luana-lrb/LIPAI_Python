@@ -36,8 +36,14 @@ for filename in os.listdir(path):
     thresh = cv2.adaptiveThreshold(blurred, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY_INV, 11, 4)
     threshGaussian = cv2.adaptiveThreshold(blurred, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY_INV, 15, 3)
     
+    result = cv2.bitwise_and(gray, gray, mask = thresh)
+    resultG = cv2.bitwise_and(gray, gray, mask = threshGaussian)
+    
     base_name = os.path.splitext(filename)[0]
+    
     cv2.imwrite(os.path.join(salvar, f"{base_name}_original.png"), gray)
     cv2.imwrite(os.path.join(salvar, f"{base_name}_mean_adaptive.png"), thresh)
     cv2.imwrite(os.path.join(salvar, f"{base_name}_gaussian_adaptive.png"), threshGaussian)
+    cv2.imwrite(os.path.join(salvar, f"{base_name}_result_mean.png"), result)
+    cv2.imwrite(os.path.join(salvar, f"{base_name}_result_gaussian.png"), resultG)
     

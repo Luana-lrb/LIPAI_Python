@@ -5,7 +5,7 @@ from pathlib import Path
 
 def dice_coefficient(pred, gt):
     """
-    Calcula o coeficiente DICE entre predição e ground truth: DICE = 2 * |A ∩ B| / (|A| + |B|)
+    Calcula o coeficiente DICE entre predição e ground truth(mascara): DICE = 2 * |A ∩ B| / (|A| + |B|)
     """
     pred = (pred > 0).astype(np.uint8)
     gt = (gt > 0).astype(np.uint8)
@@ -21,7 +21,6 @@ def dice_coefficient(pred, gt):
     return dice
 
 def create_metrics(output_dir):
-    """Inicializa o dicionário que mantém o estado."""
     Path(output_dir).mkdir(parents=True, exist_ok=True)
     return {
         "output_dir": output_dir,
@@ -45,20 +44,6 @@ def save_csv(metrics, filename='results.csv'):
     csv_path = os.path.join(metrics["output_dir"], filename)
     df.to_csv(csv_path, index=False)
     return df
-
-
-def get_best_method(metrics):
-    if not metrics["results"]:
-        return None, 0.0
-    
-    df = pd.DataFrame(metrics["results"])
-    method_means = df.groupby("Method")["DICE"].mean()
-    
-    best_method = method_means.idxmax()
-    best_dice = method_means.max()
-    
-    return best_method, best_dice
-
 
 
 def combine_results(csv_files, output_path):

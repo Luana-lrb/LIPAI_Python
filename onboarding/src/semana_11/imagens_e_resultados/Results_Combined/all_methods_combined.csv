@@ -1,0 +1,571 @@
+Filename,Method,DICE
+healthy-01-roi1.tif,Simple Threshold,0.3853857755333751
+healthy-01-roi2.tif,Simple Threshold,0.5496655186846917
+healthy-01-roi3.tif,Simple Threshold,0.4291787516389209
+healthy-01-roi4.tif,Simple Threshold,0.4842703009653606
+healthy-01-roi5.tif,Simple Threshold,0.5416572759371948
+healthy-02-roi1.tif,Simple Threshold,0.6446205564259747
+healthy-02-roi2.tif,Simple Threshold,0.5072229725761935
+healthy-02-roi3.tif,Simple Threshold,0.5504332214503161
+healthy-02-roi4.tif,Simple Threshold,0.5310012773901935
+healthy-02-roi5.tif,Simple Threshold,0.5579102270095838
+healthy-03-roi1.tif,Simple Threshold,0.5132943084843783
+healthy-03-roi2.tif,Simple Threshold,0.5035116327881557
+healthy-03-roi3.tif,Simple Threshold,0.5430773570377598
+healthy-03-roi4.tif,Simple Threshold,0.4993574659123149
+healthy-04-roi1.tif,Simple Threshold,0.5062523811539601
+healthy-04-roi2.tif,Simple Threshold,0.6834249084249084
+healthy-04-roi3.tif,Simple Threshold,0.6145291354042494
+healthy-04-roi4.tif,Simple Threshold,0.6527825720093583
+healthy-04-roi5.tif,Simple Threshold,0.5048867132391684
+healthy-05-roi3.tif,Simple Threshold,0.6270440641351407
+healthy-06-roi1.tif,Simple Threshold,0.4930764870482171
+healthy-06-roi2.tif,Simple Threshold,0.4462057080090146
+healthy-07-roi1.tif,Simple Threshold,0.3895967942612471
+healthy-07-roi2.tif,Simple Threshold,0.3316728692322356
+healthy-08-roi1.tif,Simple Threshold,0.448630386346095
+healthy-09-roi1.tif,Simple Threshold,0.412683381318589
+healthy-10-roi1.tif,Simple Threshold,0.5628305899399387
+healthy-10-roi2.tif,Simple Threshold,0.2824061525952026
+healthy-10-roi3.tif,Simple Threshold,0.4909269559103242
+healthy-10-roi4.tif,Simple Threshold,0.4100813640088883
+healthy-11-roi1.tif,Simple Threshold,0.5108552515756487
+healthy-11-roi2.tif,Simple Threshold,0.5291618896434136
+healthy-11-roi3.tif,Simple Threshold,0.30150147250519
+healthy-11-roi4.tif,Simple Threshold,0.5561731421193269
+healthy-12-roi1.tif,Simple Threshold,0.5991880180613931
+healthy-12-roi2.tif,Simple Threshold,0.5224636565879868
+healthy-13-roi1.tif,Simple Threshold,0.3267975954477234
+healthy-13-roi2.tif,Simple Threshold,0.5141962203737862
+healthy-13-roi3.tif,Simple Threshold,0.4804775734107777
+healthy-13-roi4.tif,Simple Threshold,0.4253126412535784
+healthy-14-roi2.tif,Simple Threshold,0.5049007342164902
+healthy-14-roi3.tif,Simple Threshold,0.246987453923335
+healthy-15-roi1.tif,Simple Threshold,0.4305120624840323
+healthy-15-roi2.tif,Simple Threshold,0.4466170825335892
+healthy-16-roi1.tif,Simple Threshold,0.493947609262489
+healthy-16-roi2.tif,Simple Threshold,0.4804601211380872
+healthy-16-roi3.tif,Simple Threshold,0.3589240656986431
+healthy-16-roi4.tif,Simple Threshold,0.3398257822109147
+healthy-16-roi5.tif,Simple Threshold,0.2137676177380543
+healthy-17-roi1.tif,Simple Threshold,0.6441530611578239
+healthy-17-roi2.tif,Simple Threshold,0.3041625487508103
+healthy-17-roi3.tif,Simple Threshold,0.5323030206893427
+healthy-17-roi4.tif,Simple Threshold,0.28589728193427
+healthy-18-roi1.tif,Simple Threshold,0.5618911478187208
+healthy-18-roi2.tif,Simple Threshold,0.2729963418689724
+healthy-18-roi3.tif,Simple Threshold,0.2904679438938807
+healthy-18-roi4.tif,Simple Threshold,0.4564996202404666
+healthy-18-roi5.tif,Simple Threshold,0.4530056931689868
+healthy-19-roi1.tif,Simple Threshold,0.3293192716514165
+healthy-19-roi2.tif,Simple Threshold,0.6328342422740043
+healthy-19-roi3.tif,Simple Threshold,0.2930063933298805
+healthy-19-roi4.tif,Simple Threshold,0.4857966948418634
+healthy-19-roi5.tif,Simple Threshold,0.2282311597032409
+healthy-19-roi6.tif,Simple Threshold,0.2939460527222473
+healthy-20-roi1.tif,Simple Threshold,0.5128226617499162
+healthy-20-roi2.tif,Simple Threshold,0.4968456652286079
+healthy-20-roi3.tif,Simple Threshold,0.4417609916489656
+healthy-20-roi4.tif,Simple Threshold,0.5700312862334096
+healthy-21-roi1.tif,Simple Threshold,0.5616435569718955
+healthy-21-roi2.tif,Simple Threshold,0.2693832875778292
+healthy-21-roi3.tif,Simple Threshold,0.4982793369620357
+healthy-21-roi4.tif,Simple Threshold,0.4248959386080611
+healthy-21-roi5.tif,Simple Threshold,0.4999751072167734
+healthy-22-roi1.tif,Simple Threshold,0.4665214852688223
+healthy-22-roi2.tif,Simple Threshold,0.3474928491284628
+healthy-22-roi3.tif,Simple Threshold,0.2910994241587059
+healthy-23-roi1.tif,Simple Threshold,0.5873505699193773
+healthy-23-roi2.tif,Simple Threshold,0.2461418039116132
+healthy-23-roi3.tif,Simple Threshold,0.3109916698659857
+healthy-24-roi1.tif,Simple Threshold,0.4823183316390968
+healthy-24-roi2.tif,Simple Threshold,0.3754271407788341
+healthy-24-roi3.tif,Simple Threshold,0.4724448323591385
+healthy-24-roi4.tif,Simple Threshold,0.5058656458384786
+healthy-25-roi1.tif,Simple Threshold,0.3737193492509771
+healthy-25-roi2.tif,Simple Threshold,0.4783207051182929
+healthy-25-roi3.tif,Simple Threshold,0.4261188440475843
+healthy-25-roi4.tif,Simple Threshold,0.5168007059315277
+healthy-26-roi1.tif,Simple Threshold,0.4213084932881696
+healthy-26-roi2.tif,Simple Threshold,0.4088463732502523
+healthy-26-roi3.tif,Simple Threshold,0.44190254620654
+healthy-27-roi1.tif,Simple Threshold,0.5120908447252328
+healthy-27-roi2.tif,Simple Threshold,0.4907563280100702
+healthy-28-roi1.tif,Simple Threshold,0.5082412269077312
+healthy-28-roi2.tif,Simple Threshold,0.506618016922303
+healthy-29-roi1.tif,Simple Threshold,0.3984863632232531
+healthy-29-roi2.tif,Simple Threshold,0.4397453347969264
+healthy-29-roi3.tif,Simple Threshold,0.4896209793075189
+healthy-29-roi4.tif,Simple Threshold,0.4922893090602376
+healthy-29-roi5.tif,Simple Threshold,0.4006626039117946
+healthy-30-roi2.tif,Simple Threshold,0.4906419067115075
+healthy-30-roi3.tif,Simple Threshold,0.5898100247045355
+healthy-30-roi4.tif,Simple Threshold,0.4114777992199396
+healthy-30-roi5.tif,Simple Threshold,0.5141286438041854
+healthy-30-roi6.tif,Simple Threshold,0.4508759730678561
+healthy-31-roi1.tif,Simple Threshold,0.4973119561736429
+healthy-31-roi2.tif,Simple Threshold,0.4608253565376192
+healthy-31-roi3.tif,Simple Threshold,0.5201457386223761
+healthy-31-roi4.tif,Simple Threshold,0.3526430065927124
+healthy-31-roi5.tif,Simple Threshold,0.4332465921036759
+healthy-32-roi1.tif,Simple Threshold,0.3786008230452675
+healthy-32-roi2.tif,Simple Threshold,0.3118821832801643
+healthy-32-roi3.tif,Simple Threshold,0.4330092293971029
+healthy-32-roi4.tif,Simple Threshold,0.3767754140048378
+healthy-32-roi5.tif,Simple Threshold,0.3859669921163828
+healthy-01-roi1.tif,Adaptive Threshold Gaussian,0.4089807676014572
+healthy-01-roi1.tif,Adaptive Threshold Mean,0.4172722521033907
+healthy-01-roi2.tif,Adaptive Threshold Gaussian,0.4725054082412529
+healthy-01-roi2.tif,Adaptive Threshold Mean,0.48140809551993
+healthy-01-roi3.tif,Adaptive Threshold Gaussian,0.4516957277735346
+healthy-01-roi3.tif,Adaptive Threshold Mean,0.4618874038072094
+healthy-01-roi4.tif,Adaptive Threshold Gaussian,0.4636595696933995
+healthy-01-roi4.tif,Adaptive Threshold Mean,0.4729790084859312
+healthy-01-roi5.tif,Adaptive Threshold Gaussian,0.4707710234997087
+healthy-01-roi5.tif,Adaptive Threshold Mean,0.4788349247784571
+healthy-02-roi1.tif,Adaptive Threshold Gaussian,0.4852113262792054
+healthy-02-roi1.tif,Adaptive Threshold Mean,0.4939061223039477
+healthy-02-roi2.tif,Adaptive Threshold Gaussian,0.4603837426319535
+healthy-02-roi2.tif,Adaptive Threshold Mean,0.471655389205605
+healthy-02-roi3.tif,Adaptive Threshold Gaussian,0.4815294366346052
+healthy-02-roi3.tif,Adaptive Threshold Mean,0.4889000277004656
+healthy-02-roi4.tif,Adaptive Threshold Gaussian,0.4527157192558728
+healthy-02-roi4.tif,Adaptive Threshold Mean,0.4622022831506908
+healthy-02-roi5.tif,Adaptive Threshold Gaussian,0.4660423982312394
+healthy-02-roi5.tif,Adaptive Threshold Mean,0.4742929593500142
+healthy-03-roi1.tif,Adaptive Threshold Gaussian,0.4664327550005525
+healthy-03-roi1.tif,Adaptive Threshold Mean,0.4750260716834074
+healthy-03-roi2.tif,Adaptive Threshold Gaussian,0.4686558210618028
+healthy-03-roi2.tif,Adaptive Threshold Mean,0.4755214924566667
+healthy-03-roi3.tif,Adaptive Threshold Gaussian,0.4889284906839732
+healthy-03-roi3.tif,Adaptive Threshold Mean,0.4947118383162812
+healthy-03-roi4.tif,Adaptive Threshold Gaussian,0.451930388373194
+healthy-03-roi4.tif,Adaptive Threshold Mean,0.4572139730495236
+healthy-04-roi1.tif,Adaptive Threshold Gaussian,0.4493420664424382
+healthy-04-roi1.tif,Adaptive Threshold Mean,0.4583089354725377
+healthy-04-roi2.tif,Adaptive Threshold Gaussian,0.5042666729354239
+healthy-04-roi2.tif,Adaptive Threshold Mean,0.5129399101460127
+healthy-04-roi3.tif,Adaptive Threshold Gaussian,0.5101875846984142
+healthy-04-roi3.tif,Adaptive Threshold Mean,0.5199119755803223
+healthy-04-roi4.tif,Adaptive Threshold Gaussian,0.4958164805312405
+healthy-04-roi4.tif,Adaptive Threshold Mean,0.5044392186975092
+healthy-04-roi5.tif,Adaptive Threshold Gaussian,0.4756376094404263
+healthy-04-roi5.tif,Adaptive Threshold Mean,0.4845296526290099
+healthy-05-roi3.tif,Adaptive Threshold Gaussian,0.4871017678968661
+healthy-05-roi3.tif,Adaptive Threshold Mean,0.4948504423171712
+healthy-06-roi1.tif,Adaptive Threshold Gaussian,0.4237913959412657
+healthy-06-roi1.tif,Adaptive Threshold Mean,0.4299279258666056
+healthy-06-roi2.tif,Adaptive Threshold Gaussian,0.4133735876128415
+healthy-06-roi2.tif,Adaptive Threshold Mean,0.4191468402041852
+healthy-07-roi1.tif,Adaptive Threshold Gaussian,0.3922950434578341
+healthy-07-roi1.tif,Adaptive Threshold Mean,0.3994548891461395
+healthy-07-roi2.tif,Adaptive Threshold Gaussian,0.3962703198741479
+healthy-07-roi2.tif,Adaptive Threshold Mean,0.4009876864095649
+healthy-08-roi1.tif,Adaptive Threshold Gaussian,0.4730224592378061
+healthy-08-roi1.tif,Adaptive Threshold Mean,0.4802086657324805
+healthy-09-roi1.tif,Adaptive Threshold Gaussian,0.43785054627595
+healthy-09-roi1.tif,Adaptive Threshold Mean,0.4439972966330794
+healthy-10-roi1.tif,Adaptive Threshold Gaussian,0.4821641284438923
+healthy-10-roi1.tif,Adaptive Threshold Mean,0.4886483733367288
+healthy-10-roi2.tif,Adaptive Threshold Gaussian,0.3328376567347763
+healthy-10-roi2.tif,Adaptive Threshold Mean,0.3379236899122324
+healthy-10-roi3.tif,Adaptive Threshold Gaussian,0.4132735796208391
+healthy-10-roi3.tif,Adaptive Threshold Mean,0.4209985768152941
+healthy-10-roi4.tif,Adaptive Threshold Gaussian,0.3924925913730655
+healthy-10-roi4.tif,Adaptive Threshold Mean,0.3994722783243208
+healthy-11-roi1.tif,Adaptive Threshold Gaussian,0.4721087215483342
+healthy-11-roi1.tif,Adaptive Threshold Mean,0.4791735663516164
+healthy-11-roi2.tif,Adaptive Threshold Gaussian,0.4773332304487055
+healthy-11-roi2.tif,Adaptive Threshold Mean,0.4833746134004081
+healthy-11-roi3.tif,Adaptive Threshold Gaussian,0.3608634527432242
+healthy-11-roi3.tif,Adaptive Threshold Mean,0.3662276809484931
+healthy-11-roi4.tif,Adaptive Threshold Gaussian,0.5109968468291661
+healthy-11-roi4.tif,Adaptive Threshold Mean,0.5195636061011925
+healthy-12-roi1.tif,Adaptive Threshold Gaussian,0.5395489468280741
+healthy-12-roi1.tif,Adaptive Threshold Mean,0.5489365991331518
+healthy-12-roi2.tif,Adaptive Threshold Gaussian,0.4858984230187926
+healthy-12-roi2.tif,Adaptive Threshold Mean,0.4978363548943632
+healthy-13-roi1.tif,Adaptive Threshold Gaussian,0.3863505297325798
+healthy-13-roi1.tif,Adaptive Threshold Mean,0.3881903575351224
+healthy-13-roi2.tif,Adaptive Threshold Gaussian,0.498699928401854
+healthy-13-roi2.tif,Adaptive Threshold Mean,0.5085463128764447
+healthy-13-roi3.tif,Adaptive Threshold Gaussian,0.451167441357691
+healthy-13-roi3.tif,Adaptive Threshold Mean,0.4589020811458417
+healthy-13-roi4.tif,Adaptive Threshold Gaussian,0.432487341376508
+healthy-13-roi4.tif,Adaptive Threshold Mean,0.441855763099367
+healthy-14-roi2.tif,Adaptive Threshold Gaussian,0.4917695959190421
+healthy-14-roi2.tif,Adaptive Threshold Mean,0.5018056911621123
+healthy-14-roi3.tif,Adaptive Threshold Gaussian,0.3584689517228839
+healthy-14-roi3.tif,Adaptive Threshold Mean,0.3594797289953262
+healthy-15-roi1.tif,Adaptive Threshold Gaussian,0.4786118265579777
+healthy-15-roi1.tif,Adaptive Threshold Mean,0.4882258726355779
+healthy-15-roi2.tif,Adaptive Threshold Gaussian,0.4446295425539061
+healthy-15-roi2.tif,Adaptive Threshold Mean,0.4518627320069435
+healthy-16-roi1.tif,Adaptive Threshold Gaussian,0.4556130209917858
+healthy-16-roi1.tif,Adaptive Threshold Mean,0.4623947051744885
+healthy-16-roi2.tif,Adaptive Threshold Gaussian,0.4365248226950354
+healthy-16-roi2.tif,Adaptive Threshold Mean,0.4435462457589615
+healthy-16-roi3.tif,Adaptive Threshold Gaussian,0.3848786922473242
+healthy-16-roi3.tif,Adaptive Threshold Mean,0.3885566188197767
+healthy-16-roi4.tif,Adaptive Threshold Gaussian,0.3853024422486992
+healthy-16-roi4.tif,Adaptive Threshold Mean,0.3914913636669131
+healthy-16-roi5.tif,Adaptive Threshold Gaussian,0.3215933648735471
+healthy-16-roi5.tif,Adaptive Threshold Mean,0.3266566323183204
+healthy-17-roi1.tif,Adaptive Threshold Gaussian,0.5352665245202559
+healthy-17-roi1.tif,Adaptive Threshold Mean,0.5446072045163272
+healthy-17-roi2.tif,Adaptive Threshold Gaussian,0.2999597909127462
+healthy-17-roi2.tif,Adaptive Threshold Mean,0.3022170595421682
+healthy-17-roi3.tif,Adaptive Threshold Gaussian,0.4590151553295403
+healthy-17-roi3.tif,Adaptive Threshold Mean,0.4694333221070488
+healthy-17-roi4.tif,Adaptive Threshold Gaussian,0.3456701854733566
+healthy-17-roi4.tif,Adaptive Threshold Mean,0.3464947959034687
+healthy-18-roi1.tif,Adaptive Threshold Gaussian,0.5059987009963113
+healthy-18-roi1.tif,Adaptive Threshold Mean,0.5138079801106589
+healthy-18-roi2.tif,Adaptive Threshold Gaussian,0.3704718091366213
+healthy-18-roi2.tif,Adaptive Threshold Mean,0.3740388485246457
+healthy-18-roi3.tif,Adaptive Threshold Gaussian,0.3872484882775204
+healthy-18-roi3.tif,Adaptive Threshold Mean,0.386792784556419
+healthy-18-roi4.tif,Adaptive Threshold Gaussian,0.4531948970011598
+healthy-18-roi4.tif,Adaptive Threshold Mean,0.4573926911760662
+healthy-18-roi5.tif,Adaptive Threshold Gaussian,0.4835917052546808
+healthy-18-roi5.tif,Adaptive Threshold Mean,0.4892107478321286
+healthy-19-roi1.tif,Adaptive Threshold Gaussian,0.397296546616054
+healthy-19-roi1.tif,Adaptive Threshold Mean,0.4015429898169985
+healthy-19-roi2.tif,Adaptive Threshold Gaussian,0.5623445936807498
+healthy-19-roi2.tif,Adaptive Threshold Mean,0.5691939543990138
+healthy-19-roi3.tif,Adaptive Threshold Gaussian,0.4120672268907563
+healthy-19-roi3.tif,Adaptive Threshold Mean,0.4139168945328882
+healthy-19-roi4.tif,Adaptive Threshold Gaussian,0.4456810971241429
+healthy-19-roi4.tif,Adaptive Threshold Mean,0.4512673045602606
+healthy-19-roi5.tif,Adaptive Threshold Gaussian,0.3364085288825938
+healthy-19-roi5.tif,Adaptive Threshold Mean,0.337236355314848
+healthy-19-roi6.tif,Adaptive Threshold Gaussian,0.4030552485276407
+healthy-19-roi6.tif,Adaptive Threshold Mean,0.4034432246490116
+healthy-20-roi1.tif,Adaptive Threshold Gaussian,0.4828306637381475
+healthy-20-roi1.tif,Adaptive Threshold Mean,0.488090007323081
+healthy-20-roi2.tif,Adaptive Threshold Gaussian,0.5024939007861209
+healthy-20-roi2.tif,Adaptive Threshold Mean,0.5054355879460617
+healthy-20-roi3.tif,Adaptive Threshold Gaussian,0.4624589461659288
+healthy-20-roi3.tif,Adaptive Threshold Mean,0.4673289214505364
+healthy-20-roi4.tif,Adaptive Threshold Gaussian,0.5040934664581974
+healthy-20-roi4.tif,Adaptive Threshold Mean,0.5099412066063282
+healthy-21-roi1.tif,Adaptive Threshold Gaussian,0.5325531545101674
+healthy-21-roi1.tif,Adaptive Threshold Mean,0.5395961752585603
+healthy-21-roi2.tif,Adaptive Threshold Gaussian,0.3943459324933893
+healthy-21-roi2.tif,Adaptive Threshold Mean,0.3972700456920318
+healthy-21-roi3.tif,Adaptive Threshold Gaussian,0.5195804025604206
+healthy-21-roi3.tif,Adaptive Threshold Mean,0.5248916040176348
+healthy-21-roi4.tif,Adaptive Threshold Gaussian,0.4552537112222344
+healthy-21-roi4.tif,Adaptive Threshold Mean,0.4566107659488329
+healthy-21-roi5.tif,Adaptive Threshold Gaussian,0.5203665615986565
+healthy-21-roi5.tif,Adaptive Threshold Mean,0.5245325545605467
+healthy-22-roi1.tif,Adaptive Threshold Gaussian,0.4636339975129414
+healthy-22-roi1.tif,Adaptive Threshold Mean,0.4697353279631761
+healthy-22-roi2.tif,Adaptive Threshold Gaussian,0.3790312963183808
+healthy-22-roi2.tif,Adaptive Threshold Mean,0.3822366970298373
+healthy-22-roi3.tif,Adaptive Threshold Gaussian,0.3504110840438489
+healthy-22-roi3.tif,Adaptive Threshold Mean,0.3533092115181667
+healthy-23-roi1.tif,Adaptive Threshold Gaussian,0.5112496182256259
+healthy-23-roi1.tif,Adaptive Threshold Mean,0.5162417438741237
+healthy-23-roi2.tif,Adaptive Threshold Gaussian,0.29399884593191
+healthy-23-roi2.tif,Adaptive Threshold Mean,0.2971900587959456
+healthy-23-roi3.tif,Adaptive Threshold Gaussian,0.3511321566939303
+healthy-23-roi3.tif,Adaptive Threshold Mean,0.3543179706054452
+healthy-24-roi1.tif,Adaptive Threshold Gaussian,0.4923140893202874
+healthy-24-roi1.tif,Adaptive Threshold Mean,0.4963923846402065
+healthy-24-roi2.tif,Adaptive Threshold Gaussian,0.4106029260742085
+healthy-24-roi2.tif,Adaptive Threshold Mean,0.413605158523328
+healthy-24-roi3.tif,Adaptive Threshold Gaussian,0.4381574495005222
+healthy-24-roi3.tif,Adaptive Threshold Mean,0.4401155035691775
+healthy-24-roi4.tif,Adaptive Threshold Gaussian,0.4515765603108344
+healthy-24-roi4.tif,Adaptive Threshold Mean,0.4567464128549517
+healthy-25-roi1.tif,Adaptive Threshold Gaussian,0.4170485792850595
+healthy-25-roi1.tif,Adaptive Threshold Mean,0.4191239622101345
+healthy-25-roi2.tif,Adaptive Threshold Gaussian,0.4440373038722742
+healthy-25-roi2.tif,Adaptive Threshold Mean,0.4475026465210278
+healthy-25-roi3.tif,Adaptive Threshold Gaussian,0.4230233739005094
+healthy-25-roi3.tif,Adaptive Threshold Mean,0.4258562596094082
+healthy-25-roi4.tif,Adaptive Threshold Gaussian,0.4648091939709964
+healthy-25-roi4.tif,Adaptive Threshold Mean,0.4692711490591103
+healthy-26-roi1.tif,Adaptive Threshold Gaussian,0.46276298640849
+healthy-26-roi1.tif,Adaptive Threshold Mean,0.4654975454629658
+healthy-26-roi2.tif,Adaptive Threshold Gaussian,0.4204440333024977
+healthy-26-roi2.tif,Adaptive Threshold Mean,0.4270866915365602
+healthy-26-roi3.tif,Adaptive Threshold Gaussian,0.4667449309390263
+healthy-26-roi3.tif,Adaptive Threshold Mean,0.4695707417086588
+healthy-27-roi1.tif,Adaptive Threshold Gaussian,0.532043530834341
+healthy-27-roi1.tif,Adaptive Threshold Mean,0.5371656625350167
+healthy-27-roi2.tif,Adaptive Threshold Gaussian,0.512639937151034
+healthy-27-roi2.tif,Adaptive Threshold Mean,0.516965648587713
+healthy-28-roi1.tif,Adaptive Threshold Gaussian,0.5216564942713353
+healthy-28-roi1.tif,Adaptive Threshold Mean,0.527069530884026
+healthy-28-roi2.tif,Adaptive Threshold Gaussian,0.5157671929138635
+healthy-28-roi2.tif,Adaptive Threshold Mean,0.5239729253293501
+healthy-29-roi1.tif,Adaptive Threshold Gaussian,0.4576878092667566
+healthy-29-roi1.tif,Adaptive Threshold Mean,0.4652944845406754
+healthy-29-roi2.tif,Adaptive Threshold Gaussian,0.4629801918229951
+healthy-29-roi2.tif,Adaptive Threshold Mean,0.4663672587289795
+healthy-29-roi3.tif,Adaptive Threshold Gaussian,0.5070107205901347
+healthy-29-roi3.tif,Adaptive Threshold Mean,0.5114765379707817
+healthy-29-roi4.tif,Adaptive Threshold Gaussian,0.5437596628975051
+healthy-29-roi4.tif,Adaptive Threshold Mean,0.5533643392123702
+healthy-29-roi5.tif,Adaptive Threshold Gaussian,0.5283112818324086
+healthy-29-roi5.tif,Adaptive Threshold Mean,0.536351408749823
+healthy-30-roi2.tif,Adaptive Threshold Gaussian,0.5203074444702317
+healthy-30-roi2.tif,Adaptive Threshold Mean,0.527423174283459
+healthy-30-roi3.tif,Adaptive Threshold Gaussian,0.4935168510419346
+healthy-30-roi3.tif,Adaptive Threshold Mean,0.5002311485514691
+healthy-30-roi4.tif,Adaptive Threshold Gaussian,0.4652912894563347
+healthy-30-roi4.tif,Adaptive Threshold Mean,0.4720151651458681
+healthy-30-roi5.tif,Adaptive Threshold Gaussian,0.5006632556376729
+healthy-30-roi5.tif,Adaptive Threshold Mean,0.507990321786123
+healthy-30-roi6.tif,Adaptive Threshold Gaussian,0.4511734062755893
+healthy-30-roi6.tif,Adaptive Threshold Mean,0.4593040426677785
+healthy-31-roi1.tif,Adaptive Threshold Gaussian,0.516123955778789
+healthy-31-roi1.tif,Adaptive Threshold Mean,0.5236438502534433
+healthy-31-roi2.tif,Adaptive Threshold Gaussian,0.4888095074534588
+healthy-31-roi2.tif,Adaptive Threshold Mean,0.4933020717644962
+healthy-31-roi3.tif,Adaptive Threshold Gaussian,0.4902774564900869
+healthy-31-roi3.tif,Adaptive Threshold Mean,0.4961488392275981
+healthy-31-roi4.tif,Adaptive Threshold Gaussian,0.4443138000795393
+healthy-31-roi4.tif,Adaptive Threshold Mean,0.4488258064516129
+healthy-31-roi5.tif,Adaptive Threshold Gaussian,0.4668417833111439
+healthy-31-roi5.tif,Adaptive Threshold Mean,0.4744423791821561
+healthy-32-roi1.tif,Adaptive Threshold Gaussian,0.4690418787391731
+healthy-32-roi1.tif,Adaptive Threshold Mean,0.4750618338404598
+healthy-32-roi2.tif,Adaptive Threshold Gaussian,0.4411035782315712
+healthy-32-roi2.tif,Adaptive Threshold Mean,0.4479434315196612
+healthy-32-roi3.tif,Adaptive Threshold Gaussian,0.5013570122131099
+healthy-32-roi3.tif,Adaptive Threshold Mean,0.507486418444415
+healthy-32-roi4.tif,Adaptive Threshold Gaussian,0.4674161646748059
+healthy-32-roi4.tif,Adaptive Threshold Mean,0.4735962459422106
+healthy-32-roi5.tif,Adaptive Threshold Gaussian,0.4564018787012456
+healthy-32-roi5.tif,Adaptive Threshold Mean,0.461496773756499
+healthy-01-roi1.tif,Otsu Threshold,0.5161533247985541
+healthy-01-roi1.tif,Riddler Threshold,0.5161533247985541
+healthy-01-roi2.tif,Otsu Threshold,0.5559831710470269
+healthy-01-roi2.tif,Riddler Threshold,0.5568672099712368
+healthy-01-roi3.tif,Otsu Threshold,0.5888136278623061
+healthy-01-roi3.tif,Riddler Threshold,0.5953064455915861
+healthy-01-roi4.tif,Otsu Threshold,0.6082722679617827
+healthy-01-roi4.tif,Riddler Threshold,0.6115481005434108
+healthy-01-roi5.tif,Otsu Threshold,0.5925967723733213
+healthy-01-roi5.tif,Riddler Threshold,0.5958063690887901
+healthy-02-roi1.tif,Otsu Threshold,0.6690596181426317
+healthy-02-roi1.tif,Riddler Threshold,0.6690596181426317
+healthy-02-roi2.tif,Otsu Threshold,0.6154820415879017
+healthy-02-roi2.tif,Riddler Threshold,0.6262193348201299
+healthy-02-roi3.tif,Otsu Threshold,0.6033489713619328
+healthy-02-roi3.tif,Riddler Threshold,0.6070234714783797
+healthy-02-roi4.tif,Otsu Threshold,0.5376847491766243
+healthy-02-roi4.tif,Riddler Threshold,0.5376847491766243
+healthy-02-roi5.tif,Otsu Threshold,0.6421575819822464
+healthy-02-roi5.tif,Riddler Threshold,0.6458850098108179
+healthy-03-roi1.tif,Otsu Threshold,0.578647519827303
+healthy-03-roi1.tif,Riddler Threshold,0.582507703247215
+healthy-03-roi2.tif,Otsu Threshold,0.6133171395476986
+healthy-03-roi2.tif,Riddler Threshold,0.6160031892476793
+healthy-03-roi3.tif,Otsu Threshold,0.6074159368908013
+healthy-03-roi3.tif,Riddler Threshold,0.6074159368908013
+healthy-03-roi4.tif,Otsu Threshold,0.5864203617876825
+healthy-03-roi4.tif,Riddler Threshold,0.5898235836173685
+healthy-04-roi1.tif,Otsu Threshold,0.6015149158180665
+healthy-04-roi1.tif,Riddler Threshold,0.6015149158180665
+healthy-04-roi2.tif,Otsu Threshold,0.6969680111265647
+healthy-04-roi2.tif,Riddler Threshold,0.6969680111265647
+healthy-04-roi3.tif,Otsu Threshold,0.7102176916114895
+healthy-04-roi3.tif,Riddler Threshold,0.7135277232794364
+healthy-04-roi4.tif,Otsu Threshold,0.7557430488974113
+healthy-04-roi4.tif,Riddler Threshold,0.7602213371321143
+healthy-04-roi5.tif,Otsu Threshold,0.543755509844255
+healthy-04-roi5.tif,Riddler Threshold,0.5470666323235125
+healthy-05-roi3.tif,Otsu Threshold,0.6818113049448951
+healthy-05-roi3.tif,Riddler Threshold,0.6823615314859087
+healthy-06-roi1.tif,Otsu Threshold,0.5870433220203634
+healthy-06-roi1.tif,Riddler Threshold,0.5898588339558144
+healthy-06-roi2.tif,Otsu Threshold,0.5203059859475044
+healthy-06-roi2.tif,Riddler Threshold,0.5231474166534997
+healthy-07-roi1.tif,Otsu Threshold,0.4979684375437836
+healthy-07-roi1.tif,Riddler Threshold,0.5014394340377738
+healthy-07-roi2.tif,Otsu Threshold,0.4206878494308993
+healthy-07-roi2.tif,Riddler Threshold,0.4209007200112943
+healthy-08-roi1.tif,Otsu Threshold,0.5973733583489681
+healthy-08-roi1.tif,Riddler Threshold,0.5992817350033629
+healthy-09-roi1.tif,Otsu Threshold,0.6560694075441678
+healthy-09-roi1.tif,Riddler Threshold,0.6613228905341737
+healthy-10-roi1.tif,Otsu Threshold,0.6563973654468218
+healthy-10-roi1.tif,Riddler Threshold,0.6602990360023608
+healthy-10-roi2.tif,Otsu Threshold,0.3881465024340837
+healthy-10-roi2.tif,Riddler Threshold,0.3913714439076758
+healthy-10-roi3.tif,Otsu Threshold,0.4946226750709223
+healthy-10-roi3.tif,Riddler Threshold,0.4955745732460757
+healthy-10-roi4.tif,Otsu Threshold,0.4094572810317033
+healthy-10-roi4.tif,Riddler Threshold,0.4094572810317033
+healthy-11-roi1.tif,Otsu Threshold,0.6086956521739131
+healthy-11-roi1.tif,Riddler Threshold,0.6117270263611727
+healthy-11-roi2.tif,Otsu Threshold,0.6297550669398762
+healthy-11-roi2.tif,Riddler Threshold,0.6327138906524055
+healthy-11-roi3.tif,Otsu Threshold,0.3694413486744
+healthy-11-roi3.tif,Riddler Threshold,0.3734181301652892
+healthy-11-roi4.tif,Otsu Threshold,0.6853697478158253
+healthy-11-roi4.tif,Riddler Threshold,0.6955266068575642
+healthy-12-roi1.tif,Otsu Threshold,0.7038375775101056
+healthy-12-roi1.tif,Riddler Threshold,0.7040855209631407
+healthy-12-roi2.tif,Otsu Threshold,0.750361682339568
+healthy-12-roi2.tif,Riddler Threshold,0.750361682339568
+healthy-13-roi1.tif,Otsu Threshold,0.3282099673725289
+healthy-13-roi1.tif,Riddler Threshold,0.3275043056835022
+healthy-13-roi2.tif,Otsu Threshold,0.7196433321089762
+healthy-13-roi2.tif,Riddler Threshold,0.7196433321089762
+healthy-13-roi3.tif,Otsu Threshold,0.646511914290992
+healthy-13-roi3.tif,Riddler Threshold,0.6499326649708215
+healthy-13-roi4.tif,Otsu Threshold,0.629879937146257
+healthy-13-roi4.tif,Riddler Threshold,0.6324121692793854
+healthy-14-roi2.tif,Otsu Threshold,0.6291767347636132
+healthy-14-roi2.tif,Riddler Threshold,0.6293621696354726
+healthy-14-roi3.tif,Otsu Threshold,0.3132047174313177
+healthy-14-roi3.tif,Riddler Threshold,0.322632678044214
+healthy-15-roi1.tif,Otsu Threshold,0.5722317549560074
+healthy-15-roi1.tif,Riddler Threshold,0.5747739736179043
+healthy-15-roi2.tif,Otsu Threshold,0.5529824220882413
+healthy-15-roi2.tif,Riddler Threshold,0.5556855837100728
+healthy-16-roi1.tif,Otsu Threshold,0.6272427638281297
+healthy-16-roi1.tif,Riddler Threshold,0.6311832260098713
+healthy-16-roi2.tif,Otsu Threshold,0.5436274837760086
+healthy-16-roi2.tif,Riddler Threshold,0.5453487742843227
+healthy-16-roi3.tif,Otsu Threshold,0.5226949310564797
+healthy-16-roi3.tif,Riddler Threshold,0.5254937074068547
+healthy-16-roi4.tif,Otsu Threshold,0.4796350323208054
+healthy-16-roi4.tif,Riddler Threshold,0.4902219912391417
+healthy-16-roi5.tif,Otsu Threshold,0.3664438810785895
+healthy-16-roi5.tif,Riddler Threshold,0.3741031484764075
+healthy-17-roi1.tif,Otsu Threshold,0.7504966229638459
+healthy-17-roi1.tif,Riddler Threshold,0.7529487716359575
+healthy-17-roi2.tif,Otsu Threshold,0.407966203983102
+healthy-17-roi2.tif,Riddler Threshold,0.4134074682504581
+healthy-17-roi3.tif,Otsu Threshold,0.6316622436670688
+healthy-17-roi3.tif,Riddler Threshold,0.6352313859806172
+healthy-17-roi4.tif,Otsu Threshold,0.3984233921377969
+healthy-17-roi4.tif,Riddler Threshold,0.401671713683614
+healthy-18-roi1.tif,Otsu Threshold,0.6955518641565153
+healthy-18-roi1.tif,Riddler Threshold,0.69881072590598
+healthy-18-roi2.tif,Otsu Threshold,0.3753974962766171
+healthy-18-roi2.tif,Riddler Threshold,0.3803156510302499
+healthy-18-roi3.tif,Otsu Threshold,0.3659357234017867
+healthy-18-roi3.tif,Riddler Threshold,0.3659357234017867
+healthy-18-roi4.tif,Otsu Threshold,0.5661576260775634
+healthy-18-roi4.tif,Riddler Threshold,0.5754399798490872
+healthy-18-roi5.tif,Otsu Threshold,0.532452619491588
+healthy-18-roi5.tif,Riddler Threshold,0.5341020295281453
+healthy-19-roi1.tif,Otsu Threshold,0.4512390249149557
+healthy-19-roi1.tif,Riddler Threshold,0.4543606118912133
+healthy-19-roi2.tif,Otsu Threshold,0.6962304882098971
+healthy-19-roi2.tif,Riddler Threshold,0.6983297752103479
+healthy-19-roi3.tif,Otsu Threshold,0.3877519093197559
+healthy-19-roi3.tif,Riddler Threshold,0.3893851282125283
+healthy-19-roi4.tif,Otsu Threshold,0.60507271833064
+healthy-19-roi4.tif,Riddler Threshold,0.60507271833064
+healthy-19-roi5.tif,Otsu Threshold,0.3764368312792768
+healthy-19-roi5.tif,Riddler Threshold,0.3808534610238716
+healthy-19-roi6.tif,Otsu Threshold,0.373281626768091
+healthy-19-roi6.tif,Riddler Threshold,0.3775030118572062
+healthy-20-roi1.tif,Otsu Threshold,0.63965315991329
+healthy-20-roi1.tif,Riddler Threshold,0.6443691702510207
+healthy-20-roi2.tif,Otsu Threshold,0.6349927793388337
+healthy-20-roi2.tif,Riddler Threshold,0.6349927793388337
+healthy-20-roi3.tif,Otsu Threshold,0.5501503775211896
+healthy-20-roi3.tif,Riddler Threshold,0.5536241460529261
+healthy-20-roi4.tif,Otsu Threshold,0.6524880193132274
+healthy-20-roi4.tif,Riddler Threshold,0.6551850159890361
+healthy-21-roi1.tif,Otsu Threshold,0.6572274064439536
+healthy-21-roi1.tif,Riddler Threshold,0.6635352726625745
+healthy-21-roi2.tif,Otsu Threshold,0.3560437255878575
+healthy-21-roi2.tif,Riddler Threshold,0.3657866833419428
+healthy-21-roi3.tif,Otsu Threshold,0.5986316652022391
+healthy-21-roi3.tif,Riddler Threshold,0.6010905998299064
+healthy-21-roi4.tif,Otsu Threshold,0.5577197783859555
+healthy-21-roi4.tif,Riddler Threshold,0.560505247214108
+healthy-21-roi5.tif,Otsu Threshold,0.590405758904864
+healthy-21-roi5.tif,Riddler Threshold,0.5932712586049103
+healthy-22-roi1.tif,Otsu Threshold,0.6351114867680147
+healthy-22-roi1.tif,Riddler Threshold,0.6351114867680147
+healthy-22-roi2.tif,Otsu Threshold,0.5573058901313709
+healthy-22-roi2.tif,Riddler Threshold,0.5634683973571888
+healthy-22-roi3.tif,Otsu Threshold,0.4427836001871995
+healthy-22-roi3.tif,Riddler Threshold,0.4485093481556341
+healthy-23-roi1.tif,Otsu Threshold,0.6824877838459328
+healthy-23-roi1.tif,Riddler Threshold,0.6858106882414832
+healthy-23-roi2.tif,Otsu Threshold,0.2907307473517519
+healthy-23-roi2.tif,Riddler Threshold,0.2907307473517519
+healthy-23-roi3.tif,Otsu Threshold,0.3836900603366148
+healthy-23-roi3.tif,Riddler Threshold,0.3865422587014596
+healthy-24-roi1.tif,Otsu Threshold,0.501778164314438
+healthy-24-roi1.tif,Riddler Threshold,0.5066758019746319
+healthy-24-roi2.tif,Otsu Threshold,0.3802349470578939
+healthy-24-roi2.tif,Riddler Threshold,0.3813241972751175
+healthy-24-roi3.tif,Otsu Threshold,0.4820396746531228
+healthy-24-roi3.tif,Riddler Threshold,0.4836039772622068
+healthy-24-roi4.tif,Otsu Threshold,0.6495419969390319
+healthy-24-roi4.tif,Riddler Threshold,0.6495419969390319
+healthy-25-roi1.tif,Otsu Threshold,0.4471284813354396
+healthy-25-roi1.tif,Riddler Threshold,0.4471284813354396
+healthy-25-roi2.tif,Otsu Threshold,0.6120170378709625
+healthy-25-roi2.tif,Riddler Threshold,0.6158343253851322
+healthy-25-roi3.tif,Otsu Threshold,0.4909405469200542
+healthy-25-roi3.tif,Riddler Threshold,0.4909405469200542
+healthy-25-roi4.tif,Otsu Threshold,0.6181972261838325
+healthy-25-roi4.tif,Riddler Threshold,0.6218303016372204
+healthy-26-roi1.tif,Otsu Threshold,0.5165335726375336
+healthy-26-roi1.tif,Riddler Threshold,0.5208641746854182
+healthy-26-roi2.tif,Otsu Threshold,0.449548222744099
+healthy-26-roi2.tif,Riddler Threshold,0.4528749497386409
+healthy-26-roi3.tif,Otsu Threshold,0.5072098273302283
+healthy-26-roi3.tif,Riddler Threshold,0.5175328216098318
+healthy-27-roi1.tif,Otsu Threshold,0.603378066638583
+healthy-27-roi1.tif,Riddler Threshold,0.6053779662399087
+healthy-27-roi2.tif,Otsu Threshold,0.6095505302732731
+healthy-27-roi2.tif,Riddler Threshold,0.6120670035049388
+healthy-28-roi1.tif,Otsu Threshold,0.6677253819078207
+healthy-28-roi1.tif,Riddler Threshold,0.6697254317903385
+healthy-28-roi2.tif,Otsu Threshold,0.6922719307656546
+healthy-28-roi2.tif,Riddler Threshold,0.6947096525003319
+healthy-29-roi1.tif,Otsu Threshold,0.6318645573838123
+healthy-29-roi1.tif,Riddler Threshold,0.6371133686547092
+healthy-29-roi2.tif,Otsu Threshold,0.6586187801597975
+healthy-29-roi2.tif,Riddler Threshold,0.6629946369038991
+healthy-29-roi3.tif,Otsu Threshold,0.7022609405046326
+healthy-29-roi3.tif,Riddler Threshold,0.7022609405046326
+healthy-29-roi4.tif,Otsu Threshold,0.6040520208578083
+healthy-29-roi4.tif,Riddler Threshold,0.6074222626098037
+healthy-29-roi5.tif,Otsu Threshold,0.5819176465855915
+healthy-29-roi5.tif,Riddler Threshold,0.5864274124272215
+healthy-30-roi2.tif,Otsu Threshold,0.6607836134695806
+healthy-30-roi2.tif,Riddler Threshold,0.6640373395565927
+healthy-30-roi3.tif,Otsu Threshold,0.588739090511212
+healthy-30-roi3.tif,Riddler Threshold,0.588739090511212
+healthy-30-roi4.tif,Otsu Threshold,0.6317243343300584
+healthy-30-roi4.tif,Riddler Threshold,0.6379590415965656
+healthy-30-roi5.tif,Otsu Threshold,0.6803066430787376
+healthy-30-roi5.tif,Riddler Threshold,0.6803066430787376
+healthy-30-roi6.tif,Otsu Threshold,0.4467625537899971
+healthy-30-roi6.tif,Riddler Threshold,0.6399299337246238
+healthy-31-roi1.tif,Otsu Threshold,0.6008407566810129
+healthy-31-roi1.tif,Riddler Threshold,0.602085020242915
+healthy-31-roi2.tif,Otsu Threshold,0.464583349728109
+healthy-31-roi2.tif,Riddler Threshold,0.5590370692005534
+healthy-31-roi3.tif,Otsu Threshold,0.5235345291851361
+healthy-31-roi3.tif,Riddler Threshold,0.6081416564472228
+healthy-31-roi4.tif,Otsu Threshold,0.5546872738849816
+healthy-31-roi4.tif,Riddler Threshold,0.5546872738849816
+healthy-31-roi5.tif,Otsu Threshold,0.4181538182806413
+healthy-31-roi5.tif,Riddler Threshold,0.6625727308701324
+healthy-32-roi1.tif,Otsu Threshold,0.5854579217339686
+healthy-32-roi1.tif,Riddler Threshold,0.5921441731564199
+healthy-32-roi2.tif,Otsu Threshold,0.5949806244801071
+healthy-32-roi2.tif,Riddler Threshold,0.5987722984385944
+healthy-32-roi3.tif,Otsu Threshold,0.597803592966419
+healthy-32-roi3.tif,Riddler Threshold,0.6019048108684755
+healthy-32-roi4.tif,Otsu Threshold,0.5362102058375803
+healthy-32-roi4.tif,Riddler Threshold,0.5413787064354901
+healthy-32-roi5.tif,Otsu Threshold,0.3859620134993349
+healthy-32-roi5.tif,Riddler Threshold,0.3859620134993349
