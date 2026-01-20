@@ -88,9 +88,9 @@ Observe como os resultados são apresentados e a comparação com o estado-da-ar
 
 - Qual foi o impacto das *skip connections* no desempenho (comparando FCN-32s, FCN-16s e FCN-8s na Tabela 2)?
 
-> FCN-32s | 59.4 
-> FCN-16s | 62.4 
-> FCN-8s  | 62.7 
+> FCN-32s 59.4 |
+> FCN-16s 62.4 |
+> FCN-8s  62.7 | 
 > Skip connections gerou uma melhora consistente.
 
 - Além da precisão, qual outra grande vantagem a FCN demonstrou ter sobre os métodos concorrentes?
