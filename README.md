@@ -68,12 +68,15 @@ O onboarding teve duração de **13 semanas**, cobrindo desde os fundamentos de 
 ## Organização do Repositório
 
 ```
-src
-├── semana_01/
-├── semana_02/
-├── ...
-├── semana_13/
-└── README.md
+onboarding
+  ├── ...
+  ├── src
+        ├── semana_01/
+        ├── semana_02/
+        ├── ...
+        ├── semana_13/
+  └──...
+README.md
 ```
 
 Cada pasta contém os notebooks, códigos-fonte e experimentos desenvolvidos na respectiva etapa do onboarding.
@@ -101,3 +104,4 @@ Pesquisadora em Visão Computacional — LIPAI
 ## Agradecimentos
 
 Agradeço ao **LIPAI** e aos pesquisadores envolvidos pelo suporte, materiais e orientação ao longo de todo o processo de onboarding.
+
